@@ -4,7 +4,12 @@ This Dataset contain Variable time 1990 - 2019, Dataset originally in CSV format
 Data published by	Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2019 (GBD 2019) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2021.
 Variables: Year, Countries and regions and Causes of deaths.
 
-Se ha 
+El repositorio se estructura en 4 carpetas:
+1- En dos carpetas con los datos originales en CSV y en EXcell.
+2- Proyecto en formato pbix para POwer BI
+3- Archivo PDF para mostrar el Dashboard con sus diferente paginas.
+4- Este carpeta README.
+
 
 o	Análisis de la información extraída.
 Identificar las principales causas de muerte: 
