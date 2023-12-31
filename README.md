@@ -40,7 +40,7 @@ También se pueden apreciar los picos de muertes por Exposición a las fuerzas d
 
 
 o	Evaluar el impacto de políticas de salud pública: 
-En este gráfico podemos apreciar este ejemplo de las muertes por VIH/AIDS en Estados Unidos en el año 1995 estaba en su punto más alto, y en años posteriores la tendencia es descendente, esto es debido al descubrimiento de los Retrovirales y a las políticas de sanidad aplicadas por parte del gobierno y a las presiones de los grupos activistas.
+En este gráfico podemos apreciar este ejemplo de las muertes por VIH/AIDS en Estados Unidos en el año 1995 estaba en su punto más alto, y en años posteriores la tendencia es descendente, esto es debido al descubrimiento de los Antirretrovirales y a las políticas de sanidad aplicadas por parte del gobierno y a las presiones de los grupos activistas.
 ![image](https://github.com/jettkike/Numbers-of-deaths-by-causes/assets/133718946/f4f1eda2-4ef1-4371-bd6f-3a0a660ff050)
 
  
