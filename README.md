@@ -10,6 +10,7 @@ El repositorio se estructura en 4 carpetas:
 3- Archivo PDF para mostrar el Dashboard con sus diferente paginas.
 4- Este carpeta README.
 
+https://app.powerbi.com/reportEmbed?reportId=2225982c-3611-40e9-9de3-53d7cb79cc52&autoAuth=true&ctid=1a67f631-2bac-4b10-8f2e-3750130bdc01
 
 o	Análisis de la información extraída.
 Identificar las principales causas de muerte: 
